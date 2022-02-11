@@ -1,4 +1,4 @@
-# workout-app
+# workout-server
 ### Built With
 
 * [Express](https://expressjs.com/)
