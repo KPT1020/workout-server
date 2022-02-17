@@ -26,5 +26,5 @@
    ```
 3. run the app
    ```sh
-   node app
+   npm start
    ```
